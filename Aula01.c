@@ -7,19 +7,6 @@ int main()
 
     printf("Aula 01 - Estrutura de Dados: #1 Variáveis e a Memória RAM.\n\n");
 
-    /*
-        Variáveis e a memória 
-
-        Em linguagem C, cada variável está associada a: 
-
-        1) Um nome;
-        2) Um tipo;
-        3) Um valor;
-        4) Um endereço.
-
-        &nome_da_variavel = eu quero pegar o endereço da variável na memoria.
-    */
-
     int a = 10;
     int b, c;
 
