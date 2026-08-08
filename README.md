@@ -41,3 +41,7 @@ int main()
     return 0;
 }
 ```
+
+## Aula 02 - Introdução a Ponteiros
+
+> '*' significa o contéudo de um endereço de memória.
